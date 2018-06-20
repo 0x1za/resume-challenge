@@ -1,0 +1,328 @@
+
+CONFIDENTIALITY CLAUSE:  All Information concerning the Candidate is furnished to the Client in strict confidence. The Client may not divulge this information to any third party, nor contact the Candidate’s present employer, nor take references without prior consultation with MPC Recruitment
+Position Applied For:
+IT Technician
+Candidate Name:
+Franscois Terblanche
+MPC Consultant Name:
+Colleen Stevenson
+MPC Consultant’s Contact Details:
+(021) 552 8048
+Date Referred:
+8 September 2016
+
+Personal Details
+Surname :
+Terblanche
+First Names :
+Franscois
+Nationality :
+South African
+Language Proficiencies :
+English and Afrikaans
+EE/AA Status :
+Coloured Male
+Availability :
+30 days
+Current Salary :
+R17 000.00 + 1 500.00 shift allowance
+Expected Salary :
+R18 500.00
+
+Career Summary
+Company
+Position
+Duration
+Bytes Systems Integration 
+IT Technician
+Jan 2015 - date
+Medscheme
+IT Technician 
+Sep 2014 – Jan 2015
+Paarl Media
+IT Technician
+Jun 2014 – Aug 2014
+Candidate Summary
+IT Professional with 12+ years of Information Technology experience, who provides top-notch service, sets high standards and exceeds expectations.
+Highly motivated, dependable trouble-shooter and problem-solver.
+Customer-focused performer who is committed to quality in every task, from personal interaction with co-workers and users to high level of service provided to company/client.
+Valued contributor who performs confident and effectively under pressure and thrives on new challenges.
+Excellent communicator and good listener.
+Enthusiastic learner who quickly grasps new concepts and technical skills.
+
+Academic History
+Qualification :
+Matric
+Date Completed :
+1998
+Institution :
+Forest Heights High School
+
+Computer Skills
+MCTS: Windows Server 2008 Network Infrastructure, Configuration	 
+MCTS: Windows 7, Configuration
+Accident Prevention, Collision Avoidance & Skid Control Certificate – Killarney Training Centre
+Fire Fighting Level 1 - Pro Skills Development Pty Ltd.
+MCDST – Microsoft Certified Desktop Support Technician
+CompTIA N+ Networking Specialist
+CompTIA A+ Hardware & Software Specialist
+Windows Vista Basic Intro course attended.
+ITIL Awareness course attended.
+Querying a MS SQL Server 2000 with Transact-SQL
+
+
+
+Francois Terblanche
+Resumé of Career to Date
+Company Name :
+Bytes Systems Integration (Part of TMT Group) / Bytes Universal Systems
+Type of Industry :
+I.T
+Period of Employment :
+January 2015 - date
+Position :
+IT Technician
+Duties :
+
+
+IT Technician (July 2015 – date)
+Contract Position. Responsible for setup, installation, configuration, connectivity, troubleshooting and support of: Desktop PC's, Laptops and Printers; Alcatel-Lucent OmniPCX PABX and VOIP configuration and maintenance of telephone extensions; PRTG link maintenance and monitoring; FortiGate and Cisco VPN administration; Exchange Server 2010 maintenance;
+Active Directory maintenance; SharePoint 2010 maintenance and support; Office printers & peripherals maintenance;  Purchasing and ordering of IT equipment (via Pastel Evolution); 
+Call Management via Edge (BMC Remedy); 
+Ethernet, 
+Wireless and Serial Networking; Operating Systems Support and Maintenance (All MS Windows versions, Linux) Software;  
+Application software (Office, utility, scanning). Support for Altech ISIS (now trading as Bytes Universal Systems) and all Bytes Technology Group companies, including Bytes Systems Integration, Bytes Document Solutions, Bytes People Solutions, Bytes Managed Solutions, Bytes Universal Systems and Bytes Document Solutions.
+IT Technician	(January 2015– January 2015)
+Responsible for setup, installation, configuration, connectivity, troubleshooting and support of: Desktop PC's, Laptops and Printers (EquiTrac management and maintenance); Alcatel-Lucent OmniPCX PABX configuration and maintenance of telephone extensions; PRTG link maintenance and monitoring; FortiGate VPN administration; 
+Exchange Server 2010 maintenance; Active Directory maintenance; SharePoint 2010 maintenance and support; 
+Office printers & peripherals maintenance; 
+Purchasing and ordering of IT equipment (via Pastel Evolution); 
+Call Management via in-house built application Raptor; Ethernet, Wireless and Serial Networking; 
+Operating Systems Support and Maintenance (All MS Windows versions, Linux) Software; 
+ Application software (Office, utility, scanning).
+Reason for Leaving :
+Contract, wants security and a permanent position
+
+
+Company Name :
+Medscheme
+Type of Industry :
+Hospital & Healthcare
+Period of Employment :
+September 2014 – January 2015
+Position :
+IT Technician
+Duties :
+
+
+Contract Position through Paracon Recruiting for assisting with Project Rollout, i.e. XP to Windows 7, upgrades; 
+All laptop replacements for BitLocker Encryption; 
+Setting up and configuring Desktops for users; Assisting with Office and OS Standardization and also responsible for Daily Desktop Support; 
+Assisting with Weekly Backups; Maintained and Supported XP and Windows 7 OS, as well as Office 2007, 2010 and 2013 users.
+Reason for Leaving :
+Contract
+
+
+Company Name :
+Paarl Media
+Type of Industry :
+Printing & Manufacture
+Period of Employment :
+June 2014 – August 2014
+Position :
+IT Technician
+Duties :
+
+
+Contract Position through Paracon Recruiting for assisting with Project Rollouts, i.e All laptop replacements for Bitlocker Encryption, 
+Setting up and configuring Touchscreen Desktops for Printing Factory, 
+Assisting with Office and OS Standardization and also responsible for Daily Desktop Support.
+Reason for Leaving :
+Contract
+
+
+
+
+
+
+
+
+
+
+
+Company Name :
+Much Asphalt
+Type of Industry :
+Civil Engineering
+Period of Employment :
+July 2010 – February 2014
+Position :
+IT Technician
+Duties :
+
+
+Responsible for all IT Support (Desktop Windows XP, 7 and 8 to Server Support and Maintenance (Server 2008 and 2008 R2) for Western Cape, Eastern Cape and Kwazulu-Natal regions (travelled extensively), Gauteng region if required (Remote Support and Onsite); Maintained and Supported Windows Server 2008 and 2008 R2 Servers; Managed Hyper-V, Exchange Server, DHCP, Active Directory, File and Printer Servers and Backups nationally, Responsible  for all IT Purchasing and Procurement; Supported Microsoft Office 2007/2010; 
+Creating and updating IT Documentation.
+Reason for Leaving :
+Retrenchment
+
+
+Company Name :
+Digica (Now trading as ComputaCenter South Africa)
+Type of Industry :
+IT
+Period of Employment :
+December 2008 – June 2010
+Position :
+Service Desk Analyst
+Duties :
+
+
+First Line ticket logging (Touchpaper and Remedy);  
+Ticket Management;  
+First and Second Line Fixes; 
+Desktop, Laptop and printer troubleshooting;  
+Microsoft Office 2007 troubleshooting;  Windows Vista troubleshooting;  
+Network troubleshooting;  
+Network Administration;  
+Citrix Administration; 
+Exchange Server 2003 Administration;  
+Active Directory Administration; 
+Internet Site Administration (Websense)
+Reason for Leaving :
+Better Opportunity came up at Much Asphalt
+
+
+
+
+
+Company Name :
+Kromco
+Type of Industry :
+Food Production
+Period of Employment :
+March 2008 – November 2008
+Position :
+IT Technician 
+Duties :
+
+
+Installation, configuration, connectivity, troubleshooting and support of: 
+Desktop PC's, Laptops and Citrix Terminals (Thin Clients); Industrial Automation & Control Equipment (Portable Data Terminals, label printers, barcode scanners, etc.);  
+Office printers & peripherals;  
+Ethernet, Wireless and Serial Networking; 
+Operating Systems (All MS Windows versions, MS DOS, Linux) Software;  
+Application software (Office, utility, scanning); 
+Industrial monitoring, control and execution software.
+Reason for Leaving :
+Contract
+
+
+Company Name :
+ForwardSlash (Now trading as Digital Outsourced Services)
+Type of Industry :
+Marketing & Advertising
+Period of Employment :
+June 2002 – December 2007
+Position :
+August 2001 – May 2002
+Duties :
+
+
+Monitoring Infrastructure (Cape Town and Canada);
+Logging queries and escalating to various departments (using Service Desk, CRM and SharePoint Portal applications); 
+Monitoring replication and banking gateways; 
+Monitoring and logging of problems/changes on Helpdesk Applications; 
+Desktop Support throughout company; 
+PC maintenance and Telephony Support; 
+Helpdesk Team Leader roles (including updating and scheduling of shifts and Roster, Leave and Overtime, etc.); 
+WSUS administration
+Reason for Leaving :
+Promoted to new IT Role
+
+
+
+
+
+Company Name :
+Dialogue Communications
+Type of Industry :
+Telecommunications
+Period of Employment :
+June 2001 – August 2001
+Position :
+Call Centre Consultant
+Duties :
+
+
+Client/Player relations: telephonic, inbound and outbound; Client/Player relations: email, inbound and outbound; 
+Refer Back Brand specialist: Affiliate Program accounts and technical support (B2B); Gaming Brand Specialist
+Reason for Leaving :
+Better opportunity
+
+
+Company Name :
+MultiChoice
+Type of Industry :
+Broadcast Media
+Period of Employment :
+June 1999 – June 2001
+Position :
+Shipping Agent
+Promoted from 
+Shipping Agent
+Duties :
+
+
+Call Centre Consultant (November 2000 – June 2001)
+Customer Relations: responding telephonically to all programming, technical and billing inquiries; Agencies: providing support for Multichoice agencies in the Western Cape and Eastern Cape regions; Installers: telephonic activation of new subscribers; Product sales and activations; Dealing with subscriber compliments and complaints; Subscriber billing queries and refunds; Fax and email client liaison.
+Shipping Agent (June 1999 – November 2000)
+Shipping of products to customers using IBS database; Receiving and Dispatching; Stock controller and Stock taker; Compiling of monthly stock reports; Picker and Packer
+Reason for Leaving :
+Better Opportunity.
+
+
+
+
+
+
+
+
+Company Name :
+HomeChoice
+Type of Industry :
+Retail
+Period of Employment :
+February 1999 – June 1999
+Position :
+Picker & Packer
+Duties :
+
+
+Picking and packing of new products for customers
+Shipping of goods
+Reason for Leaving :
+Better Opportunity
+
+
+
+
+
+
+
+
+
+
+MPC Recruitment Group | [Insert Consultant’s Name Here]
+[Insert Position Applied For Here] | [Insert Applicant’s Name Here]
+ PAGE   \* MERGEFORMAT 2
+
+
+ PAGE   \* MERGEFORMAT 8
+	Candidate Name 	|	Francois Terblanche XE 
+	MPC Consultant Name 	| 	Colleen Stevenson (021) 552 8048
+
+
+
+
+

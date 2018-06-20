@@ -1,0 +1,284 @@
+
+CONFIDENTIALITY CLAUSE:  All Information concerning the Candidate is furnished to the Client in strict confidence. The Client may not divulge this information to any third party, nor contact the Candidate’s present employer, nor take references without prior consultation with MPC Recruitment
+Position Applied For:
+Desktop Support Engineer
+Candidate Name:
+Okuhle Mntonintshi
+MPC Consultant Name:
+Nwabisa Nkwinti
+MPC Consultant’s Contact Details:
+(021) 552 8048
+Date Referred:
+12 July 2016
+
+Personal Details
+Surname :
+Mntonintshi
+First Names :
+Okuhle
+Nationality :
+South African
+Language Proficiencies :
+English, Xhosa and Zulu
+EE/AA Status :
+African, Male
+Availability :
+1 calendar month
+Current Salary :
+R9 561pm (Incl. Benefits)
+Expected Salary :
+R15 000pm
+
+Career Summary
+Company
+Position
+Duration
+Datacentrix
+Junior Support Engineer
+Sep 2012 – Present 
+Department of Agriculture, Forestry & Fisheries
+IT Intern
+Feb 2013 – Sep 2013 
+City of Cape Town Municipality
+Lab Information Management Systems Assistant (Trainee)
+Oct 2009 – Apr 2010 
+
+Academic History
+Qualification :
+ND: Information Technology 
+Date Completed :
+2009
+Institution :
+Cape Peninsula University of Technology
+
+Qualification :
+CCNA Discovery: Networking for Home & Small Businesses
+Date Completed :
+2008
+Institution :
+Cape Peninsula University of Technology
+
+Qualification :
+National N3 Certificate: Engineering
+Date Completed :
+2006
+Institution :
+King Sabatha Dalindyebo FET College
+
+Qualification :
+Matric
+Date Completed :
+2005
+Institution :
+Shawbury Senior Secondary School
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Skills
+Programs/Systems :
+Systems 
+HP, Dell, Lenovo, Toshiba, Konica Minolta, & Cisco
+
+Operating Systems 
+Windows XP, Windows 7, Windows 8, Linux, Ubuntu, & Mac
+
+Packages
+Altiris Packages, & Microsoft Office and Exchange
+
+
+Programming Languages
+COBOL, C++, & VB.Net
+
+Databases 
+Microsoft Access, SA-SAMS, & Lab Information Management Systems
+Antivirus Software 
+MacAfee, System Center 2012 End Point Protection, Symantec, & ESET 32
+
+Call Management Systems
+BMC Remedy ITSM 7, & SAP CRM
+
+Remote Assistance Tools 
+Windows Remote Assistance, Ultra VNC, & Team Viewer
+
+Network Design Tools 
+Packet Tracer 4.0
+
+Protocols 
+TCP/IP, DHCP, DNS, FTP, HTTP, SNMP, & SMTP
+
+
+Additional Training and Skills
+Skills in: 
+Network Principles or Topologies (Star, Bus, Ring, Fully Connected, Partially Connected & Tree-structured Network)
+Desktop Support, Helpdesk Service Desk
+Network Design, Installation, Implementation, Connection, Configuration, Maintenance, Backups
+Troubleshooting, Problem Solving, Network configuration
+DHCP, DNS , TCP/IP & LAN/WAN Support
+Remote Assistance, Exchange Configuration, & SAN Administration
+
+Knowledge in: 
+Windows 7 & 8, Vista & XP, Microsoft Office Package, Altiris Packages, COBOL, VB.Net, C++, Linux
+BMC REMEDY ITSM, Active Directory, PC Technicians, SA-SAMS, & Telkom Network Lines and Network Points
+
+Abilities in: 
+Network Admin., Desktop Support, Helpdesk Support, Routing, & Security
+
+Personal Attributes: 
+Good verbal &written Communication Skills
+Organisational Skills
+People Skills
+Team Player
+Reliable
+Good Interpersonal Skills
+Honest
+Flexible
+Meeting deadlines & Trustworthy
+
+Okuhle Mntonintshi
+Resumé of Career to Date
+Company Name :
+Datacentrix
+Period of Employment :
+Oct 2013 – Present & Sep 2012 – Nov 2012
+Position :
+Junior Support Engineer
+Desktop Support Engineer
+Promoted from Junior Desktop Support Engineer
+Duties :
+
+
+Junior Support Engineer (Oct 2013 – Present)
+Client: Pioneer Foods (Pty) Ltd.
+First line & Second line Support for all printer related queries, 
+Printer Installations
+Printer Configuration
+Printer Management
+Liaison with Telkom regarding fixing faulty Network Points
+Patching Network Points, & Replacing Network Points for Printers to work
+Maintenance & Toners Stock Taking
+
+Systems Used			: HP, & Konica Minolta
+Operating Systems Used	            : Windows 7, Mac
+Remote Assistance Tools Used	: Windows Remote Assistance, & Team Viewer
+Call Management Systems Used    : BCM Remedy ITSM7
+Antivirus Software Used		: System Centre 2012 End Point Protection
+
+Desktop Support Engineer (Oct 2012 – Nov 2012)
+Client: Engen Petroleum Limited
+Installing New Operating System (Windows 7)
+Setup New PC’s and Laptops
+Drivers Installation
+Connecting PC’s to the network domain
+
+Systems				: HP, & Dell
+Operating Systems Used	            : Windows XP, Windows 7
+Remote Assistance Tools Used	: Windows Remote Assistance
+Antivirus Software Used		: System Centre 2012 End Point Protection
+Skills gained                                     : Call logging, Remote Assistance, User needs
+                                                             accomplishment, Team Work, & Flexibility
+
+
+
+Junior Desktop Support Engineer (Sep 2012 – Nov 2012)
+Client: British American Tobacco South Africa
+Installing New Operating System
+Setup New PC’s and Laptops 
+Link PC’s to the Domain
+Drivers Installation
+Connect PC’s to the Internet
+
+Systems			: Lenovo, & Cisco
+Operating Systems Used	: Windows XP, Windows 7
+Antivirus Software Used	: MacAfee
+Skills gained			: Time management, Team work, Load of Work 
+                                                 Management, PC building & PC setup procedures
+Reason for Leaving :
+Growth, do more and explore IT as a whole
+
+
+Company Name :
+Department of Agriculture, Forestry and Fisheries
+Period of Employment :
+February 2013 – September 2013
+Position :
+IT Intern
+Duties :
+
+
+Helpdesk Service Desk, 2nd Line Support
+Query and Complaints answering, Password resets on Active Directory
+Desktop & Laptop Setups, Software installation and Hardware Configuration
+Connecting PC’s to the network domain, Attending to calls, SAN Administration
+Monitor storage environment, Maintain Storage Area Network (SAN), 
+Assign and configure new disks on Back up Servers
+
+Systems				: HP, Dell, Lenovo, Toshiba, Konica Minolta, Brother,
+                                                             Sun Solaris & Cisco
+Operating Systems Used		: Windows XP, Windows 7, Windows 8
+Remote Assistance Tools Used	: Ultra VNC, Remote Desktop Connection
+Call Management Systems Used	: BCM Remedy ITSM7
+Antivirus Software Used		: MacAfee
+Skills gained			            : Network configuration & domain knowledge, 
+                                                             troubleshooting hardware, Phone etiquette, 
+                                                             Remote assistance, Time management,
+                                                             and Interaction with Users
+Reason for Leaving :
+Internship ended
+Company Name :
+City of Cape Town Municipality
+Period of Employment :
+October 2009 – April 2010
+Position :
+Lab Information Management Systems Assistant (Trainee)
+Duties :
+
+
+Printer Management, Computer Troubleshooting, Data Backups, Stock Taking & Logging Calls
+
+Systems				: HP, & Zebra
+Operating Systems Used		: Windows XP
+Call Management Systems Used	: SAP CRM
+Remote Assistance Tools Used	: Remote Desktop Connection
+Skills gained                                     : Printer Configuration for best performance, 
+                                                             Resolving Computer Technical faults, 
+                                                             and daily data backup
+Reason for Leaving :
+In-service training
+
+
+
+
+
+
+
+
+
+
+MPC Recruitment Group | [Insert Consultant’s Name Here]
+[Insert Position Applied For Here] | [Insert Applicant’s Name Here]
+ PAGE   \* MERGEFORMAT 2
+
+
+ PAGE   \* MERGEFORMAT 7
+	Candidate Name 	|	Okuhle Mntonintshi XE 
+	MPC Consultant Name 	| 	Nwabisa Nkwinti (021) 552 8048
+
+
+
+
+

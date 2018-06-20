@@ -1,0 +1,164 @@
+
+CONFIDENTIALITY CLAUSE:  All Information concerning the Candidate is furnished to the Client in strict confidence. The Client may not divulge this information to any third party, nor contact the Candidate’s present employer, nor take references without prior consultation with MPC Recruitment
+Position Applied For:
+Junior Developer (Java)
+Candidate Name:
+Mogamat Ijaaz Lagardien
+MPC Consultant Name:
+Nwabisa Nkwinti
+MPC Consultant’s Contact Details:
+(021) 552 8048
+Date Referred:
+22 February 2017
+
+Personal Details
+Surname :
+Lagardien
+First Names :
+Mogamat Ijaaz
+Nationality :
+South African
+Language Proficiencies :
+English and Afrikaans
+EE/AA Status :
+Coloured, Male
+Availability :
+2 Weeks
+Current Salary :
+R8 000pm
+Expected Salary :
+R12 000pm
+
+
+
+
+
+Career Summary
+Company
+Position
+Duration
+Achievement Awards Group – Westlake, Cape Town
+Intern Analyst Developer
+Jun 2016 – Date 
+AV Custom Solutions (Pty) Ltd. – Randburg, Johannesburg
+Assistant
+Dec 2015 – Feb 2016
+Academic History
+Qualification :
+National Diploma : Information Technology (Software Development)
+Date Completed :
+2016
+Institution :
+Cape Peninsula University of Technology
+
+Qualification :
+Matric
+Date Completed :
+2013
+Institution :
+Paarl Boys’ High School
+
+ 
+Computer Skills
+Programs/Systems :
+PL/SQL
+C# front-end
+PHP
+
+Familiar with: 
+Java, 
+Git VCS 
+Maven
+
+
+Additional Training and Skills
+Awards and Achievements
+CISCO Networking Academy, Paarl
+Paarl Boys’ High Testimonial
+
+Personal Attributes
+Multi-tasking ability
+Diligent and results-oriented
+Self-confidence and energetic
+Empathetic and consistent
+Excellent relationship management skills
+Assertiveness and integrity
+Analytical approach and problem-solving ability
+Dedicated and Loyal
+Reliable
+
+
+Projects
+
+Coded a complete data reconciliation system, the first of its kind at Achievement Awards Group, in PL/SQL with a C# front-end. Have since been moved to the web development department where currently working with PHP.
+
+Java Technologies, last year he built an Android application that connected to a Spring Boot backend all done in Java. Have been taught to use design patterns and principles and Unit Testing. Also familiar with Git VCS and Maven.
+Mogamat Ijaaz Lagardien
+Resumé of Career to Date
+Company Name :
+Achievement Awards Group – Westlake, Cape Town
+Period of Employment :
+June 2016 – Date 
+Position :
+Intern Analyst Developer
+Duties :
+
+
+Performing analysis.
+Investigating data anomalies.
+System design and implementation of data reconciliation system.
+System design includes doing functional requirement specifications/business requirements specifications designing the database and coding actual system.
+Investigating file transfers in and out of company.
+
+Technologies:
+
+PL/SQL
+C# front-end
+PHP
+
+Reason for Leaving :
+Looking for a Java development position
+
+March 2016 – May 2016:  Looking for new opportunities and studying
+
+Company Name :
+AV Custom Solutions (Pty) Ltd. – Randburg, Johannesburg
+Period of Employment :
+December 2015 – February 2016 
+Position :
+Assistant
+Duties :
+
+
+IT Technician.
+Setting up PC’s.
+Laying of Cables.
+Assisting with CCTV setup.
+Assisting Installer.
+General technical work.
+
+Reason for Leaving :
+Relocated to Cape Town
+
+
+
+
+
+
+
+
+
+
+MPC Recruitment Group | [Insert Consultant’s Name Here]
+[Insert Position Applied For Here] | [Insert Applicant’s Name Here]
+ PAGE   \* MERGEFORMAT 2
+
+
+ PAGE   \* MERGEFORMAT 2
+	Candidate Name 	|	Mogamat Ijaaz Lagardien XE 
+	MPC Consultant Name 	| 	Nwabisa Nkwinti (021) 552 8048
+
+
+
+
+

@@ -1,0 +1,234 @@
+
+CONFIDENTIALITY CLAUSE:  All Information concerning the Candidate is furnished to the Client in strict confidence. The Client may not divulge this information to any third party, nor contact the Candidate’s present employer, nor take references without prior consultation with MPC Recruitment
+Position Applied For:
+
+Candidate Name:
+Ndimphiwe Bontsi
+MPC Consultant Name:
+Lucian Schroeder
+MPC Consultant’s Contact Details:
+(021) 552 8048
+Date Referred:
+14 October 2016
+
+Personal Details
+Surname :
+Bontsi
+First Names :
+Ndimphiwe
+Nationality :
+South African
+Language Proficiencies :
+English, Afrikaans and Xhosa
+EE/AA Status :
+African, Male
+Availability :
+1 Calendar Month
+Current Salary :
+R20 000 p/m CTC
+Expected Salary :
+R28 000 p/m 
+
+Career Summary
+Company
+Position
+Duration
+Old Mutual Finance
+Java Developer
+Jan 2013 – Present 
+Altech Swisttech Solutions
+Software Development & Testing Intern 
+Feb 2012 – Jan 2013 
+Western Cape Education Department
+Mark Checker
+5 Dec 2008 – 16 Dec 2008
+Candidate Summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic History
+Qualification :
+Diploma Information Technology 
+Date Completed :
+2010
+Institution :
+Cape Peninsula University of Technology 
+
+Qualification :
+Information Technology Certificate 
+Date Completed :
+2006
+Institution :
+Cape Peninsula University of Technology 
+
+Qualification :
+Matric
+Date Completed :
+2005
+Institution :
+Mathew Goniwe Comprehensive
+ 
+
+Computer Skills
+Programs/Systems :
+Programming — Java, C++.Net, VB.Net, COBOL,PHP, JavaScript,, HTML,HTML5,AJAX, XML CSS, Objective C,
+
+Java Frameworks - xiruiz(OMF), SpringFramework(self-taught), NBDevelopmentFramework(created myself for Android Dev)
+
+Platforms - Android, IOS, Windows mobile, 
+
+Database Management System —MySQL, SQL, PLSQL, Oracle, Oracle 9i, Oracle developer, SQL Developer, SQLite
+Project Management, System Analysis, SEO,A+,N+
+
+OS: Windows Server, Windows, Mac, Linux, Apache, IBM server(as400)
+
+Microsoft Office Package (Word, Access, Excel,  Power Point, Publisher)
+
+
+Additional Training and Skills
+Achievements
+In 2005 he achieved A+ aggregate on mathematics and A+ aggregate on accounting and came top of his school. 
+In 2006 he received National certificate in Information technology. 
+In 2008 he passed his Programming modules with a distinction in top his Class.
+In 2015 January he was awarded top performer in IT Money Account System, in the same year he was elected to be a member of the EE Committee of which he was awarded a certificate of attendance
+
+Projects/Applications 
+Mobile Kiosk Application
+Created a mobile kiosk application as a proof of concept for Tiger Wheel and Tyre. App was created for an Android touch screen device to be placed on Tiger Wheel and Tyre showroom floors as an expression of interest medium.
+Technologies used: JQuery Mobile, CSS, HTML5, Json
+Cordova (Phonegap)
+
+Thulz Place Application
+He created a mobile application as a proof of concept for Thulz Place .The application was created for Android devices to be used by customers placing orders whenever and wherever they are, and the admin side was made to view and update orders as they handle the.
+Technologies used: Eclipse IDE, Android SDK, SQLite Database
+
+NB Development
+He created a mobile application for himself Development training. The application was created for Android devices to be used by him and as demo to people that might be interested in having their applications to assist themselves to achieve their desired goals.
+Technologies used: Eclipse IDE, Android SDK, SQLite Database
+
+Ndimphiwe Bontsi
+Resumé of Career to Date
+Company Name :
+Old Mutual Finance
+Type of Industry :
+Finance
+Period of Employment :
+January 2013 – Present 
+Position :
+Java Developer
+Duties :
+
+
+Write programs according to business specifications.
+Conduct unit testing.
+Draft implementation plans. 
+Work closely with Business Analyst to ensure sufficient clarification of specifications
+Competence Requirements
+Adaptability
+Decision Making
+Ownership
+Technical Knowledge
+Thinking Skills
+Reason for Leaving :
+
+
+
+Company Name :
+Altech Swisttech Solutions
+Type of Industry :
+Retail & Consumer Products
+Period of Employment :
+February 2012 – January 2013 
+Position :
+Software Development & Testing Intern
+Duties :
+
+
+Develop FAT documents
+Review FAT
+Analyze FS(Functional Specification ) 
+Analyze URS(User Requirements Specification) 
+Review of system requirements
+Preparing test cases
+Execution of tests
+Reporting of defects
+Preparation of test reports
+Automated Testing
+
+Preform FAT testing
+Front end testing (VV Gui, SQL Developer)
+Back end testing (Linux, DB Changes)
+Reason for Leaving :
+
+
+
+Company Name :
+Western Cape Education Department
+Type of Industry :
+Education
+Period of Employment :
+December 2008 – December 2008 
+Position :
+Mark Checker
+Duties :
+
+
+Checking students marks
+Reason for Leaving :
+
+
+
+
+
+
+
+
+
+
+
+MPC Recruitment Group | [Insert Consultant’s Name Here]
+[Insert Position Applied For Here] | [Insert Applicant’s Name Here]
+ PAGE   \* MERGEFORMAT 2
+
+
+ PAGE   \* MERGEFORMAT 2
+	Candidate Name 	|	Ndimphiwe Bontsi XE 
+	MPC Consultant Name 	| 	Lucian Schroeder (021) 552 8048
+
+
+
+
+

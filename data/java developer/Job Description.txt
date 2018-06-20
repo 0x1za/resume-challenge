@@ -1,0 +1,28 @@
+Job Title:                              Java Developer
+ 
+Job Description:
+ 
+Skills:
+•             Analytical and problem-solving skills
+•             Technical writing skills
+•             Effective communication skills
+•             Time-management skills
+•             Organizational skills and interpersonal skills
+•             Must be self-driven and confident in his/her own abilities.
+ 
+Key Performance Areas:
+•             Database development – against relational databases using JDBC. (Oracle)
+•             Must have solid SQL knowledge, preferably on Oracle.
+•             Experience in Java, XML, XSLT, JSP, Servlets, Custom Tags, HTML beneficial
+•             Knowledge of Flex, Spring, BlazeDS, Struts and EJBs will be advantageous.
+•             Must have experience in building web based applications using technologies above.
+ 
+Responsibilities will include:
+•             Development and maintenance of web based Java applications using the technologies mentioned above.
+•             Design and document solutions according to internal standards.
+•             Research, document and share new applicable technologies.
+•             Participate in daily SCRUM sessions.
+ 
+Other:
+•General accounting knowledge would be beneficial.
+Based on experience and qualification we offer the following:

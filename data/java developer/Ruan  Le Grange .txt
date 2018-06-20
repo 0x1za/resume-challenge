@@ -1,0 +1,189 @@
+
+CONFIDENTIALITY CLAUSE:  All Information concerning the Candidate is furnished to the Client in strict confidence. The Client may not divulge this information to any third party, nor contact the Candidate’s present employer, nor take references without prior consultation with MPC Recruitment
+Position Applied For:
+Java Developer 
+Candidate Name:
+Ruan Le Grange
+MPC Consultant Name:
+Charlene White
+MPC Consultant’s Contact Details:
+(021) 552 8048
+Date Referred:
+16 May 2016
+
+Personal Details
+Surname :
+Le Grange
+First Names :
+Ruan
+Nationality :
+South African
+Language Proficiencies :
+English, Afrikaans
+EE/AA Status :
+White Male 
+Availability :
+Immediate 
+Current Salary :
+R 15 000.00 pm
+Expected Salary :
+R 18 000.00 – R 20 000.00 pm 
+
+
+
+
+
+
+
+
+Academic History
+Qualification :
+Bachelor of Science Computer Systems
+Date Completed :
+2013
+Institution :
+Heriot-Watt University – Scotland, UK
+
+Qualification :
+BTEC Higher National Diploma – Information Technology
+Date Completed :
+2012
+Institution :
+CTI Education Group (Durbanville Campus) 
+
+Qualification :
+Matric (with University Exemption)
+Date Completed :
+2010
+Institution :
+High School Outeniqua, George, Western Cape 
+
+
+ 
+Skills
+Programs/Systems :
+Primary Languages 
+Java J2EE (JSF, Maven, EJB, JPA, Jenkins)
+C#
+VB
+
+Secondary Languages 
+HTML
+XML
+Python
+
+Tools
+Netbeans IDE
+IntelliJ IDE
+Databases
+MySQL
+MS SQL Server
+MongoDB
+
+Operating Systems 
+Windows
+Linux (Ubuntu)
+
+Other 
+Mule ESB
+SQL Server Integrations Services (SSIS)
+Django Web Framework
+
+
+Ruan Le Grange
+Resumé of Career to Date
+Company Name :
+Full Facing Software (Pty) Ltd.
+Type of Industry :
+Full Facing develops innovative data-driven platforms, hardware solutions and software systems to measure and monitor real-world metrics.
+Period of Employment :
+2014 – Current  
+Position :
+Software Developer
+Duties :
+
+
+Projects
+Financial platform for Sanlam Collective Investments
+Administration platform to enable tracking, monitoring and business process management of outsourced functions within the liability admin space
+Platform is heavily integrated to internal and external systems with a web enabled view to manage and administer
+
+Responsibilities:
+Developing and maintaining front end pages using JSF (Java MVC standard)
+Developing and maintaining REST API’s which connect to EJB Managers (Backend)
+Getting data into and out of the platform using an ESB (Mule)
+
+Technologies used
+Java (JSF, Maven, EJB, Jenkins, JPA)
+MSSQL (handled through JPA)
+Mule ESB (Integration)
+SQL Server Integration Services (ETL)
+
+Financial platform for Global Investment Reporting SA
+Regulatory reporting platform for financial services. Currently responsible for regulatory
+reports (which is sent to the FSB) for the following clients:
+Discovery
+Stanlib
+Investec
+Ashburton
+PSG
+Novare
+IPMC
+PSG Wealth
+
+
+
+
+Responsibilities
+Developing and maintaining front end pages using JSF (Java MVC standard)
+Developing and maintaining REST API’s which connect to EJB Managers (Backend)
+
+Technologies used
+Java (JSF, Maven, EJB, Jenkins)
+NoSQL (Mongo DB)
+
+Retail web application for Computicket
+In store solution (buying tickets in shoprite of computicket outlets)
+
+Responsibilities
+Frontend development
+
+Technologies used
+Django web framework
+Python
+
+Product On-Shelf Availbility application
+Managing through huge amounts of stock related data and providing an API for mobile and web developers for this platform.
+Included in this is the toolbox application which is used to install and monitor installations.
+
+Responsibilities
+Developing and maintaining REST API’s which connect to EJB Managers (Backend)
+
+Technologies used
+Java (Maven, EJB, Jenkins)
+NoSQL (Mongo DB)
+Reason for Leaving :
+Career growth 
+
+
+
+
+
+
+
+
+
+
+MPC Recruitment Group | [Insert Consultant’s Name Here]
+[Insert Position Applied For Here] | [Insert Applicant’s Name Here]
+ PAGE   \* MERGEFORMAT 2
+
+
+ PAGE   \* MERGEFORMAT 2
+	Candidate Name 	|	Ruan Le Grange XE 
+	MPC Consultant Name 	| 	Charlene White  (021) 552 8048
+
+
+
+
+

@@ -1,0 +1,346 @@
+
+CONFIDENTIALITY CLAUSE:  All Information concerning the Candidate is furnished to the Client in strict confidence. The Client may not divulge this information to any third party, nor contact the Candidate’s present employer, nor take references without prior consultation with MPC Recruitment
+Position Applied For:
+Developer
+Candidate Name:
+Mthobisi Jastice Manzini
+MPC Consultant Name:
+Louhan Nel
+MPC Consultant’s Contact Details:
+(021) 552 8048
+Date Referred:
+27 July 2017
+
+Personal Details
+Surname :
+Manzini
+First Names :
+Mthobisi Jastice
+Nationality :
+South African
+Language Proficiencies :
+English and Zulu
+EE/AA Status :
+African, Male
+Availability :
+1 Calendar Month
+Current Salary :
+R28 000 CTC per month
+Expected Salary :
+R32 000 – R34 000 CTC per month
+
+Career Summary
+Company
+Position
+Duration
+In4Group
+Junior/Intermediate Developer Contractor
+Oct 2016 – Date 
+Xtreme Business Synergy
+Junior Developer Consultant
+Apr 2016 – Sept 2016
+Techsprung
+Graduate Java Developer
+Apr 2015 – Mar 2016
+Academic History
+Qualification :
+National Diploma: Information Technology (Technical Applications)
+Date Completed :
+2013
+Institution :
+Tshwane University of Technology
+
+Qualification :
+Matric
+Date Completed :
+2009
+Institution :
+Tinhlonhla Secondary School
+
+ 
+Skills & Competencies
+Programming skills: Java( NetBeans, spring IO, IntelliJ), VB.Net, TypeScript, JavaScript, MSSQL
+Ability to analyze and  problem solving 
+Computer literacy: MS Package competent  and Linux basics
+Strong work ethic and ability to function well in a team
+Excellent time management
+Good interpersonal skills 
+Work well under pressure and meet deadlines
+Self-Motivation, drive and energy
+
+
+
+
+
+
+
+
+
+
+
+Skills Matrix
+Levels
+1
+Training only
+2
+Limited practical experience
+3
+Thorough Practical Experience
+4
+Extensive Experience
+5
+Specialist Skills
+
+
+Skill/Software
+Last Used
+Level
+Java
+April 2016
+4
+Typescript
+Currently using it
+3
+JavaScript
+Currently using it
+3
+XML, XSLT and XSD
+April 2016
+3
+Linux
+January 2016
+3
+PostgreSQL
+April 2016
+4
+PL/SQL Database
+September 2016
+3
+Html5/ CSS
+Currently using it
+4
+JQuery 
+Currently using it
+2
+MVC
+Currently using it
+4
+Bootstrap
+Currently using it
+4
+Materialize CSS
+Currently using it
+3
+Material2
+Currently using it
+3
+AngularJS
+Currently using it
+3
+Angular2
+Currently using it
+3
+Node.js (NPM)
+Currently using it
+3
+Angular CLI
+Currently using it
+3
+web services
+September 2016
+3
+Android
+April 2016
+2
+Visual Basic.net 2012
+September 2016
+3
+A+ 
+September 2016
+3
+N+
+September 2016
+3
+MySQL
+April 2016
+3
+Ubuntu 14.10 Server
+January 2016
+3
+Windows 10
+Currently using it
+4
+Apache tomcat
+March 2016
+3
+Spring IO IDE
+April 2016
+3
+Git 
+September 2016
+4
+SQL Server 2008 IDE
+September 2016
+4
+Microsoft Office 2016
+Currently using it
+4
+
+Mthobisi Jastice Manzini
+Resumé of Career to Date
+Company Name :
+In4Group (Ltd) Pty
+Type of Industry :
+Information Technology and Services
+Period of Employment :
+October 2016 – Date 
+Position :
+Junior / Intermediate  Developer Consultant
+Duties :
+
+
+Job Description
+Developing in-house systems using Open Source Software’s
+Creating dynamic web application with  Html5 , Css3 , Angular Material2  and Typescript 
+Handling Rest Api calls and data manipulation using angularJs , and Angular2
+Using Agile methodology 
+
+Software using
+Node.js , Visual studio code, Git, Team Foundation Server
+
+Programing Language used
+Html5, Material2 , Angular2,AngularJs , TypeScript
+Reason for Leaving :
+He is looking for permanent employment
+
+
+Company Name :
+Xtreme Business Synergy  (Ltd) Pty
+Type of Industry :
+Information Technology and Services
+Period of Employment :
+April 2016 – September 2016 
+Position :
+Junior  Developer Consultant
+Duties :
+
+
+Job Description
+Developing in-house systems using Microsoft software
+Front end development using html5, css3, bootstrap, AngularJS and JQuery
+Backend development using Visual Basic.net 
+Creating AngularJS Directives.  
+Using Git for version control 
+Maintaining and developing for existing systems
+Bug fixing 
+Adding new fixtures  to the system
+
+
+Software Used
+Windows 10, Git ,SQL Server,  visual basic.net
+
+Programing Language used
+Html5, Bootstrap and UI Bootstrap , CSS , AngularJS
+Reason for Leaving :
+He was supposed to be offered a permanent position, but the employer did not follow through
+
+
+Company Name :
+Techsprung (Ltd) Pty
+Type of Industry :
+Information Technology and Services
+Period of Employment :
+April 2015 – March 2016
+Position :
+Graduate Java Developer
+Duties :
+
+
+Job Description
+Developing in-house systems using open source language’s 
+Front end development using html5, css3, bootstrap, AngularJS and JQuery
+Backend development using JavaScript and Java
+Monitoring and configuring Services on windows azure cloud
+Research and implement new open source technologies
+
+Software Used
+Spring IO IDE, GitHub, PostgreSQL, Ubuntu server, windows 10, MySQL
+
+Programing Language used
+Html5, Bootstrap and UI Bootstrap, CSS, AngularJS, Java, JavaScript, JQuery
+Reason for Leaving :
+End of contract
+
+
+
+
+
+
+
+
+
+
+
+
+Company Name :
+Tshwane University Of Technology
+Type of Industry :
+Department of Education
+Period of Employment :
+August 2013 – March 2015 
+Position :
+Lecture Assistant
+Promoted from Software Developer Internship
+Duties :
+
+
+Lecture Assistant (Feb 2014 – Mar 2015)
+Job Description
+Assist lectures during lessons with questions asked by students.
+Give lesson on homework class or when a lecture is not present.
+Facilitate and invigilate students Test and Exam rooms 
+Give students campus tour 
+Giving lessons on Small Basic, Mathematics, and A+ for Foundation first year students.
+
+Software Used
+Microsoft Office 2013,Small Basic, Netop
+
+Programing Language used
+Small Basic
+
+Software Developer Internship (Aug 2013 – Jan 2014)
+Job Description
+In House Internship held by Tshwane University Of Technology  and Sponsored by Microsoft AppFacory and Nokia :
+Developing Microsoft Windows store apps 
+Developing Windows phone apps 
+
+Software’s Used
+Windows 8 ,Visual Studio 2013,Microsoft Office  
+
+Programing Language used
+C#  and XAML
+Reason for Leaving :
+Career Growth
+
+
+
+
+
+
+
+
+
+
+MPC Recruitment Group | [Insert Consultant’s Name Here]
+[Insert Position Applied For Here] | [Insert Applicant’s Name Here]
+ PAGE   \* MERGEFORMAT 2
+
+
+ PAGE   \* MERGEFORMAT 7
+	Candidate Name 	|	Mthobisi Jastice Manzini XE 
+	MPC Consultant Name 	| 	Louhan Nel (021) 552 8048
+
+
+
+
+

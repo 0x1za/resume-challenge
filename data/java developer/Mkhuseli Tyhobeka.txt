@@ -1,0 +1,163 @@
+
+CONFIDENTIALITY CLAUSE:  All Information concerning the Candidate is furnished to the Client in strict confidence. The Client may not divulge this information to any third party, nor contact the Candidate’s present employer, nor take references without prior consultation with MPC Recruitment
+Position Applied For:
+Graduate Java Developer
+Candidate Name:
+Mkhuseli Tyhobeka
+MPC Consultant Name:
+Louhan Nel
+MPC Consultant’s Contact Details:
+(021) 552 8048
+Date Referred:
+10 May 2017
+
+Personal Details
+Surname :
+Tyhobeka
+First Names :
+Mkhuseli
+Nationality :
+South African
+Language Proficiencies :
+Xhosa, English 
+EE/AA Status :
+Black Male
+Availability :
+Immediate
+Current Salary :
+R3 500 per month
+Expected Salary :
+R7 000 – R15 000 per month
+
+Career Summary
+Company
+Position
+Duration
+JumpCO Holdings
+Trainee Java Developer
+Oct 2016 - Current
+Department of Social Development
+Office Assistant 
+Oct 2013 – Oct 2014
+
+Academic History
+Qualification :
+BSc Computer Science
+Date Completed :
+2010
+Institution :
+University of Fort Hare
+
+Qualification :
+Matric
+Date Completed :
+2006
+Institution :
+Funda High School
+ 
+Computer Skills
+Programs/Systems :
+Java
+HTML
+Bootstrap
+CSS
+JSP
+JSF
+MVC Framework
+MySQL
+eGit
+Linux
+SDLC
+JavaScript
+
+
+Additional Training and Skills
+NQL level 5 Java systems developer – JumpCO labs / JumpCO
+IBM WebSphere Message Broker V8.0 – JumpCO labs / JumpCO
+Red Hat Jboss BPM – JumpCO labs / JumpCO (Current)
+
+Candidate Name
+Resumé of Career to Date
+Company Name :
+JumpCO Holdings
+Type of Industry :
+
+Period of Employment :
+October 2016 – September 2017
+Position :
+Trainee Java Developer
+Duties :
+
+
+Developing applications using java
+Developing web pages using HTML, Bootstrap, CSS, JSP, JSF
+Using maven as a build tool
+Develop using the spring MVC framework  
+Also using hibernate for database transaction and mapping and back-end validations.
+MySQL database
+Test applications using Junit for unit testing 
+Deploying to tomcat server/Jboss
+Commit and pull code on using eGit
+Using Linux operating system
+Used the SDLC methodology
+JavaScript for frond-end validation
+Develop Business Process models in jBPM designer and Jboss developer studio.
+Write business rules code using drools(drl) language, Java on jBPM suite 6 and Jboss developer studio
+Develop use-interface in jBPM suite 6
+Develop test cases using jBPM suite 6 test scenario perspective
+Develop test cases using Junit testing with java in Red Hat Jboss developer studio
+Push, pull and commit code on with eGit.
+Reason for Leaving :
+Seeking a position with better prospects and a higher income
+
+November 2014 – September 2016: Mkhuseli opted to find opportunities that will give him entrance into Information Technology. Within this time he was employed part-time at some companies, but his main focus was trying to upskill himself within software development.
+
+
+
+
+
+
+
+Company Name :
+Department of Social Development
+Type of Industry :
+Governmental 
+Period of Employment :
+October 2013 – October 2014
+Position :
+Office Assistant
+Duties :
+
+
+Filling of all documents according to filling plan.
+Schedule events, meetings, workshops and demonstrations
+Updating and maintenance of database.
+Handle all personal enquiries and correspondence
+Assist with data collection for meetings and workshop
+Processing of NGO organisations applications for funding
+Capturing of data electronically
+Reason for Leaving :
+Sought career growth and entrance into IT
+
+
+
+
+
+
+
+
+
+
+MPC Recruitment Group | [Insert Consultant’s Name Here]
+[Insert Position Applied For Here] | [Insert Applicant’s Name Here]
+ PAGE   \* MERGEFORMAT 2
+
+
+ PAGE   \* MERGEFORMAT 4
+	Candidate Name 	|	Mkhuseli Tyhobeka XE 
+	MPC Consultant Name 	| 	Louhan Nel (021) 552 8048
+
+
+
+
+

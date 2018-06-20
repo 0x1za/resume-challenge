@@ -1,0 +1,123 @@
+
+CONFIDENTIALITY CLAUSE:  All Information concerning the Candidate is furnished to the Client in strict confidence. The Client may not divulge this information to any third party, nor contact the Candidate’s present employer, nor take references without prior consultation with MPC Recruitment
+Position Applied For:
+IT Graduate
+Candidate Name:
+Phelang Qhu
+MPC Consultant Name:
+Nwabisa Nkwinti
+MPC Consultant’s Contact Details:
+(021) 552 8048
+Date Referred:
+06 October 2016
+
+Personal Details
+Surname :
+Qhu
+First Names :
+Phelang
+Nationality :
+South African
+Language Proficiencies :
+English, Xhosa
+EE/AA Status :
+African, Male
+Availability :
+Immediate
+Expected Salary :
+R8000pm
+
+
+
+
+
+
+
+Academic History
+Qualification :
+National Diploma: Information Technology
+Date Completed :
+2015
+Institution :
+Cape Peninsula University of Technology
+
+Qualification :
+Matric
+Date Completed :
+2010
+Institution :
+False Bay FET College
+
+
+
+
+
+
+
+ 
+Computer Skills
+Object Oriented Programming using C++, Java and PHP
+C programming language
+Agile Development
+Test Driven Development in Java
+Systems Analysis and Design, UML, Use Case Diagrams, Activity diagrams
+Relational Databases Systems, SQL and PL/SQL 
+Java technologies, Spring, Hibernate, REST, JSP
+Development tools, include Git, Gradle, IntelliJ, Maven, MySQL, Oracle, 
+Fluent in Linux and Windows operating systems
+
+
+
+
+
+
+
+Awards
+IT Diploma 3rd Year Practical Experience | Certificate – 2015
+ Intec Telecom Systems South Africa/ Trading As CSG International
+
+1st Place NC (V) Information Technology & Computer Science Level 4 | Certificate – 2010 
+False Bay FET College
+
+1st Place NC (V) Information Technology & Computer Science Level 3 | Certificate – 2009
+False Bay FET College
+
+
+
+
+Casual / Temp Assignments
+
+Company:  CSG International		
+Position: Software Developer Internship
+Date: August 2015 – December 2015
+Duties: 
+
+In a team of three, I collaborated in planning, designing, developing, testing and deploying web application software that tracks build statuses of company software projects under test environment. This application displayed statistical progress of each software project on screen, visible enough for developers to see. Bootstrap, CSS, HTML, Java, JSON, J-Query, JSP and REST are software development tools used. 
+Enforcing clean code by using OOP, TDD, design principles and patterns.
+Learning software industry best practices, including scaled agile framework (SAFe), release planning and teams self-management.
+
+
+
+
+
+
+
+
+
+
+
+
+
+MPC Recruitment Group | [Insert Consultant’s Name Here]
+[Insert Position Applied For Here] | [Insert Applicant’s Name Here]
+ PAGE   \* MERGEFORMAT 2
+
+
+ PAGE   \* MERGEFORMAT 3
+	Candidate Name 	|	Candidate Name XE 
+	MPC Consultant Name 	| 	Consultant Name  (021) 552 8048
+
+
+
+
+
